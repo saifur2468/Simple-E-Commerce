@@ -1,0 +1,403 @@
+[
+    {
+      "product_id": "LAP001",
+      "product_title": "Dell Inspiron 15",
+      "product_image": "https://i.ibb.co.com/NMX8rRL/lap1.jpg",
+      "category": "Laptop",
+      "price": 65000,
+      "description": "15.6-inch laptop with responsive performance and modern design.",
+      "Specification": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "availability": false,
+      "rating": 4.2
+    },
+    {
+      "product_id": "LAP002",
+      "product_title": "HP Pavilion x360",
+      "product_image": "https://i.ibb.co.com/vx99MQnC/lap2.jpg",
+      "category": "Laptop",
+      "price": 72000,
+      "description": "Convertible laptop with touchscreen and powerful performance.",
+      "Specification": [
+        "Intel Core i5 12th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Touchscreen"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "LAP003",
+      "product_title": "Lenovo IdeaPad Slim 5",
+      "product_image": "https://i.ibb.co.com/dsgF3hsD/lap3.jpg",
+      "category": "Laptop",
+      "price": 68000,
+      "description": "Slim and light laptop for everyday use and productivity.",
+      "Specification": [
+        "AMD Ryzen 5",
+        "8GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": "LAP004",
+      "product_title": "Asus VivoBook 14",
+      "product_image": "https://i.ibb.co.com/HfCnB4f0/lap4.jpg",
+      "category": "Laptop",
+      "price": 59000,
+      "description": "Compact and stylish laptop ideal for students.",
+      "Specification": [
+        "Intel Core i3",
+        "8GB RAM",
+        "256GB SSD",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "product_id": "LAP005",
+      "product_title": "Acer Aspire 5",
+      "product_image": "https://i.ibb.co.com/cS5mnSft/lap5.jpg",
+      "category": "Laptop",
+      "price": 56000,
+      "description": "Budget-friendly laptop with decent performance.",
+      "Specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "PHO001",
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://i.ibb.co.com/C3cdWqYB/ph1.jpg",
+      "category": "Phone",
+      "price": 95000,
+      "description": "Flagship phone with amazing display and performance.",
+      "Specification": [
+        "6.1\" AMOLED",
+        "8GB RAM",
+        "128GB Storage",
+        "Triple Camera"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "PHO002",
+      "product_title": "Xiaomi Redmi Note 12",
+      "product_image": "https://i.ibb.co.com/1tmJzqXp/ph2.jpg",
+      "category": "Phone",
+      "price": 25000,
+      "description": "Budget-friendly phone with powerful features.",
+      "Specification": [
+        "6.5\" LCD",
+        "6GB RAM",
+        "128GB Storage",
+        "50MP Camera"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "PHO003",
+      "product_title": "Realme 11 Pro+",
+      "product_image": "https://i.ibb.co.com/bM5P45Kg/ph3.jpg",
+      "category": "Phone",
+      "price": 28000,
+      "description": "Stylish design with curved AMOLED display.",
+      "Specification": [
+        "6.7\" AMOLED",
+        "8GB RAM",
+        "256GB Storage",
+        "200MP Camera"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "PHO004",
+      "product_title": "Infinix Zero 5G",
+      "product_image": "https://i.ibb.co.com/PZ9VwJGP/ph4.jpg",
+      "category": "Phone",
+      "price": 20000,
+      "description": "Affordable 5G smartphone with good specs.",
+      "Specification": [
+        "6.78\" IPS",
+        "6GB RAM",
+        "128GB Storage",
+        "50MP Camera"
+      ],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": "PHO005",
+      "product_title": "Tecno Spark 10",
+      "product_image": "https://i.ibb.co.com/TDJYjC0m/ph5.jpg",
+      "category": "Phone",
+      "price": 11000,
+      "description": "Entry-level smartphone with great battery life.",
+      "Specification": [
+        "6.6\" IPS",
+        "4GB RAM",
+        "64GB Storage",
+        "5000mAh"
+      ],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "product_id": "SMA001",
+      "product_title": "Amazfit GTS 2",
+      "product_image": "https://i.ibb.co.com/gM5bQVNJ/sm1.jpg",
+      "category": "Smart Watch",
+      "price": 12000,
+      "description": "Stylish AMOLED smartwatch with fitness tracking.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "Sleep Tracking",
+        "SpO2"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "SMA002",
+      "product_title": "Noise ColorFit Pro 4",
+      "product_image": "https://i.ibb.co.com/rD72jNH/sm2.jpg",
+      "category": "Smart Watch",
+      "price": 3500,
+      "description": "Budget-friendly smartwatch with good features.",
+      "Specification": [
+        "1.72\" Display",
+        "Bluetooth Calling",
+        "100 Sports Modes",
+        "SpO2"
+      ],
+      "availability": false,
+      "rating": 4.1
+    },
+    {
+      "product_id": "SMA003",
+      "product_title": "boAt Xtend",
+      "product_image": "https://i.ibb.co.com/21TTDp12/sm3.jpg",
+      "category": "Smart Watch",
+      "price": 2800,
+      "description": "Smartwatch with Alexa built-in and custom watch faces.",
+      "Specification": [
+        "1.69\" LCD",
+        "Alexa Support",
+        "Stress Monitor",
+        "Heart Rate"
+      ],
+      "availability": false,
+      "rating": 4.2
+    },
+    {
+      "product_id": "SMA004",
+      "product_title": "Fire-Boltt Ring 3",
+      "product_image": "https://i.ibb.co.com/fVRBmbs5/sm4.jpg",
+      "category": "Smart Watch",
+      "price": 4000,
+      "description": "BT calling smartwatch with large display.",
+      "Specification": [
+        "1.8\" Display",
+        "Bluetooth Calling",
+        "Voice Assistant",
+        "SpO2"
+      ],
+      "availability": false,
+      "rating": 4.0
+    },
+    {
+      "product_id": "SMA005",
+      "product_title": "Realme Watch 2 Pro",
+      "product_image": "https://i.ibb.co.com/mfTw3c1/sm5.jpg",
+      "category": "Smart Watch",
+      "price": 5000,
+      "description": "Accurate GPS and large screen at a great price.",
+      "Specification": [
+        "1.75\" Display",
+        "Dual Satellite GPS",
+        "90 Sports Modes",
+        "SpO2"
+      ],
+      "availability": false,
+      "rating": 4.2
+    },
+    {
+      "product_id": "MAC001",
+      "product_title": "MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/xKRHYKtc/mk1.jpg",
+      "category": "MacBook",
+      "price": 95000,
+      "description": "Apple's M1 chip powered lightweight laptop.",
+      "Specification": [
+        "Apple M1",
+        "8GB RAM",
+        "256GB SSD",
+        "macOS"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "MAC002",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/QytBjrH/mk2.jpg",
+      "category": "MacBook",
+      "price": 115000,
+      "description": "Next-gen MacBook with M2 chip and new design.",
+      "Specification": [
+        "Apple M2",
+        "8GB RAM",
+        "256GB SSD",
+        "macOS Ventura"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "MAC003",
+      "product_title": "MacBook Pro 13",
+      "product_image": "https://i.ibb.co.com/LXjzNMVJ/mk3.jpg",
+      "category": "MacBook",
+      "price": 120000,
+      "description": "Pro performance in compact size with M2 chip.",
+      "Specification": [
+        "Apple M2",
+        "8GB RAM",
+        "512GB SSD",
+        "Touch Bar"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "MAC004",
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://i.ibb.co.com/BVgnGFgD/mk4.jpg",
+      "category": "MacBook",
+      "price": 180000,
+      "description": "High-end MacBook with M2 Pro chip and XDR display.",
+      "Specification": [
+        "Apple M2 Pro",
+        "16GB RAM",
+        "512GB SSD",
+        "Liquid Retina XDR"
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "MAC005",
+      "product_title": "MacBook Pro 16",
+      "product_image": "https://i.ibb.co.com/BVgnGFgD/mk4.jpg",
+      "category": "MacBook",
+      "price": 240000,
+      "description": "Ultimate performance with M2 Max chip.",
+      "Specification": [
+        "Apple M2 Max",
+        "32GB RAM",
+        "1TB SSD",
+        "16\" XDR Display"
+      ],
+      "availability": false,
+      "rating": 5.0
+    },
+    {
+      "product_id": "IPH001",
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co.com/dwMjkLd6/i1.jpg",
+      "category": "iPhone",
+      "price": 80000,
+      "description": "Apple's latest smartphone with A15 chip.",
+      "Specification": [
+        "6.1\" OLED",
+        "128GB",
+        "12MP Dual Camera",
+        "A15 Bionic"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "IPH002",
+      "product_title": "iPhone 14 Pro",
+      "product_image": "https://i.ibb.co.com/zHJFy2HT/i2.jpg",
+      "category": "iPhone",
+      "price": 120000,
+      "description": "Flagship iPhone with Dynamic Island and A16 chip.",
+      "Specification": [
+        "6.1\" OLED",
+        "128GB",
+        "48MP Camera",
+        "A16 Bionic"
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "IPH003",
+      "product_title": "iPhone 13",
+      "product_image": "https://i.ibb.co.com/nq0qQpRG/i3.jpg",
+      "category": "iPhone",
+      "price": 65000,
+      "description": "Powerful and efficient with stunning display.",
+      "Specification": [
+        "6.1\" OLED",
+        "128GB",
+        "12MP Camera",
+        "A15 Bionic"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "IPH004",
+      "product_title": "iPhone SE 2022",
+      "product_image": "https://i.ibb.co.com/DP8B1KcD/i4.jpg",
+      "category": "iPhone",
+      "price": 45000,
+      "description": "Compact iPhone with great performance.",
+      "Specification": [
+        "4.7\" LCD",
+        "64GB",
+        "A15 Bionic",
+        "Touch ID"
+      ],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "IPH005",
+      "product_title": "iPhone 12",
+      "product_image": "https://i.ibb.co.com/YFhKQ7Mw/i5.jpg",
+      "category": "iPhone",
+      "price": 55000,
+      "description": "OLED display and 5G with sleek design.",
+      "Specification": [
+        "6.1\" OLED",
+        "64GB",
+        "A14 Bionic",
+        "Dual Camera"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+    
+]
