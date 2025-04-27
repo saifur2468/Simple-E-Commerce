@@ -1,12 +1,12 @@
-# React + Vite
+# WebSite Name : Gadget Heaven Web Application 
+# Live Link :https://aesthetic-starship-872826.netlify.app/
+# React Fundamental Concepts : Use State , React Router, React Dom , React Props,React Map, UseEffect,React Componet Etc.
+# Features :
+1) Simple Desagin
+2) Responsive Website
+3) Use ERROR Handle
+4) Use Morden Technology
+5) Add Price and Short By Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
